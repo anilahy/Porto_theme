@@ -1,0 +1,15 @@
+
+/*.customer-account-create .page-wrapper .page-header{display:none !important;}
+*/
+
+
+.products-grid:not(.side-list):not(.products-related):not(.small-list) .product-item:hover .product-item-info{
+
+  ransition: all 0.3s !important;
+}
+
+.page-product-configurable .page-wrapper #maincontent .columns .main .media{width:50% !important;}
+.page-product-configurable .page-wrapper #maincontent .columns .main .product-info-main .product-add-form form #product-options-wrapper .fieldset .swatch-opt{width:100%; display: inline-flex !important;}
+.page-product-configurable .page-wrapper #maincontent .columns .main .product-info-main .product-add-form form #product-options-wrapper .fieldset .swatch-opt .swatch-attribute{width:50% !important;}
+.page-product-configurable .page-wrapper #maincontent .columns .main .product-info-main .product-reviews-summary{margin-top: 25px !important;}
+.page-product-configurable .page-wrapper #maincontent .columns .main .product-info-price{margin-top: 30px !important;}
